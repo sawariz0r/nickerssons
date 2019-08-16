@@ -49,7 +49,7 @@ function HomePage(props) {
         color="dark"
         size="medium"
         logo="https://a.icons8.com/ZZvdvTlc/T1BkL5/group_3_objects.svg"
-        description="Vi erbjuder markarbete för både privatpersoner, bostadsrättföreningar, företag och offentliga sektorn."
+        description="Vi erbjuder markarbete för både privatpersoner, bostadsrättföreningar, företag och offentliga sektorn. Vi finns inte på riktigt."
         copyright="© 2019 Nickerssons bygg"
       />
     </div>
