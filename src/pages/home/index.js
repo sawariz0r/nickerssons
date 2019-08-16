@@ -26,7 +26,7 @@ function HomePage(props) {
         title="Behöver du hjälp att bygga något där hemma?"
         subtitle="Vi på Nickerssons bygg arbetar i huvudsak med små och mellanstora byggentreprenader i Skåne-området. Inget är för litet och inget är för stort (nästan). Vi utför byggnadsarbeten samt mark, betong och byggarbeten."
         buttonText="Få en kostnadsfri offert"
-        image="https://uploads.divjoy.com/undraw-japan_ubgk.svg"
+        image="https://svgshare.com/i/E_c.svg"
         buttonOnClick={() => {
           router.push("/pricing");
         }}
@@ -40,7 +40,7 @@ function HomePage(props) {
       <ContactSection
         color="warning"
         size="medium"
-        title="Hör av dig till oss!"
+        title="Hör av dig till oss för en kostnadsfri offert!"
         subtitle=""
         showNameField={true}
         buttonText="Skicka meddelande"

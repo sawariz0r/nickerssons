@@ -26,7 +26,7 @@ function HeroSection(props) {
           <div className="column is-1" />
           <div className="column">
             <figure className="HeroSection__image image">
-              {/*<img src={props.image} alt="Illustration" />*/}
+              <img src={props.image} alt="Illustration" />
             </figure>
           </div>
         </div>
