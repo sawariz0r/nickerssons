@@ -18,7 +18,7 @@
     "analytics-plugin-simple-analytics": "0.1.0",
     "express": "4.17.1",
     "body-parser": "1.19.0",
-    "aws-sdk": "2.508.0"
+    "aws-sdk": "2.814.0"
   },
   "scripts": {
     "start": "react-scripts start",
